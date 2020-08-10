@@ -1,0 +1,21 @@
+body{
+    background-color: lightskyblue ;
+}
+p{ font-family: Arial; opacity:0.5;}
+h1{ 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    color:blueviolet;
+}
+table
+{
+    background-color:lightblue;
+    border:solid;
+    width: 600px;
+    margin-left: 100px;
+    border-collapse:collapse;
+}
+th {background-color: royalblue; text-transform: uppercase; text-align: center;color: whitesmoke;}
+th,td {border: 1px solid black;padding:7px;}
+td,th {font-family: Arial, Helvetica, sans-serif;}
+tr:nth-child(even) {background-color: lightsteelblue;}
